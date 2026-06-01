@@ -1,0 +1,23 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.table{
+    margin: 10px;
+    width: 100%;
+    padding: 5px;
+    border-radius: 0px;
+}
+.table th {
+    border: 5px solid #593b00; 
+    background-color: #593b00; 
+    text-align: center;
+}   
+
+.table .th1 {
+    border: 0px solid #593b00;
+    background-color: #007614;
+    text-align: center;
+}
