@@ -21,3 +21,15 @@
     background-color: #007614;
     text-align: center;
 }
+form{
+    width: 400px;
+    background-color: antiquewhite;
+    margin: 20px;
+}
+form input{
+    margin: 10px;
+    padding: 10px;
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
